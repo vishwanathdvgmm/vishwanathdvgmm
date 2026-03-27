@@ -104,12 +104,12 @@ Open to:
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwanathdvgmm&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwanathdvgmm&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160"/>
   <img src="https://streak-stats.demolab.com?user=vishwanathdvgmm&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathdvgmm&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwanathdvgmm&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 ## 🐍 Contribution Snake
