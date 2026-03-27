@@ -103,10 +103,6 @@ Open to:
 
 ## 📊 Performance Metrics
 
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishwanathdvgmm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishwanathdvgmm&layout=compact&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=vishwanathdvgmm&theme=tokyonight)
 
 ## 🐍 Contribution Snake
