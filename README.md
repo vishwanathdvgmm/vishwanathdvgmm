@@ -67,6 +67,7 @@ Vision      : A scalable developer ecosystem powering next-gen AI & systems infr
   <img src="https://img.shields.io/badge/Rust-Systems-0d1f3c?style=for-the-badge&logo=rust&logoColor=00e5ff"/>
   <img src="https://img.shields.io/badge/Linux-Kali%20%7C%20Ubuntu-0d1f3c?style=for-the-badge&logo=linux&logoColor=00e5ff"/>
   <img src="https://img.shields.io/badge/Bash-Scripting-0d1f3c?style=for-the-badge&logo=gnubash&logoColor=00e5ff"/>
+  <img src="https://img.shields.io/badge/Markdown-0d1f3c?style=for-the-badge&logo=markdown&logoColor=00e5ff"/>
   <br/>
   <img src="https://img.shields.io/badge/Git-Version%20Control-0d1f3c?style=for-the-badge&logo=git&logoColor=00e5ff"/>
   <img src="https://img.shields.io/badge/GitHub-CI%2FCD-0d1f3c?style=for-the-badge&logo=github&logoColor=00e5ff"/>
