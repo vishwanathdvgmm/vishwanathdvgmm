@@ -38,10 +38,11 @@
 
 ```text
 Name        : Vishwanath M M
-Role        : Systems Engineer • AI/ML Developer • Open-Source Builder
+Role        : Systems Engineer • AI/ML Developer • Open-Source Builder, CEO of AEROS
 Education   : B.Tech AI/ML — 4th Year
+Company     : AEROS
 Languages   : Rust • Python
-Environment : Linux (Kali / Ubuntu) • Terminal-centric workflows
+Environment : Linux (Kali / Ubuntu) • Windows • Terminal-centric workflows
 Philosophy  : Control over abstraction. Build over integrate. Systems > scripts.
 Vision      : A scalable developer ecosystem powering next-gen AI & systems infrastructure.
 ```
@@ -50,13 +51,14 @@ Vision      : A scalable developer ecosystem powering next-gen AI & systems infr
 
 ## 🚀 Projects
 
-| Project                                                  | Type               | Description                                                                                     | Status          |
-| -------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------- | --------------- |
-| **[Ferrite](https://github.com/vishwanathdvgmm)**        | Language           | ML-oriented programming language built in Rust — compilers, type systems, and low-level IR      | 🔨 Active       |
-| **[symjoy](https://pypi.org/project/symjoy/)**           | Python Package     | Metadata-driven Unicode symbol engine with indexed search and semantic graph capabilities       | ✅ Live on PyPI |
-| **[pyvenvmerge](https://pypi.org/project/pyvenvmerge/)** | Python Package     | PEP 508-compliant virtual environment merger with conflict detection and resolution             | ✅ Live on PyPI |
-| **[evalforge](https://github.com/vishwanathdvgmm)**      | Python Framework   | `pytest` for LLM outputs — decorator-driven eval framework for text gen, RAG pipelines & agents | 🔨 Active       |
-| **Q-Sentry**                                             | Startup / Research | AI-powered quantum network security using AU-MoE for QKD networks — FPGA/ASIC deployment        | 🚀 In Progress  |
+| Project                                                  | Type           | Description                                                                                                          | Status          |
+| -------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------- | --------------- |
+| **[Ferrite](https://github.com/vishwanathdvgmm)**        | Language       | ML-oriented programming language built in Rust — compilers, type systems, and low-level IR                           | 🔨 Active       |
+| **[symjoy](https://pypi.org/project/symjoy/)**           | Python Package | Metadata-driven Unicode symbol engine with indexed search and semantic graph capabilities                            | ✅ Live on PyPI |
+| **[pyvenvmerge](https://pypi.org/project/pyvenvmerge/)** | Python Package | PEP 508-compliant virtual environment merger with conflict detection and resolution                                  | ✅ Live on PyPI |
+| **[AEROS](https://github.com/vishwanathdvgmm/AEROS)**    | Startup        | A new general-purpose operating system built entirely in Rust. Not a Linux fork. Not a Windows clone. Something new. | 🚀 In Progress  |
+
+**Note**: **AEROS** is not yet open source so you have to wait till v1.0
 
 ---
 
@@ -83,11 +85,11 @@ Vision      : A scalable developer ecosystem powering next-gen AI & systems infr
 ## 🏆 Highlights
 
 ```text
-✦ Two published Python packages on PyPI — symjoy & pyvenvmerge
-✦ Building Ferrite: an ML-oriented programming language implemented in Rust
-✦ Co-founder @ Q-Sentry — AI-powered security for Quantum Key Distribution networks
-✦ Scaffolding evalforge — a pytest-style evaluation framework for LLM applications
-✦ Terminal-centric, Linux-native development workflow across all projects
+✦ Two published Python packages on PyPI — symjoy & pyvenvmerge.
+✦ Building Ferrite: an ML-oriented programming language implemented in Rust.
+✦ Founder and CEO @ AEROS - A new general-purpose operating system built entirely in Rust. Not a Linux fork. Not a Windows clone. Something new.
+✦ Scaffolding evalforge — a pytest-style evaluation framework for LLM applications.
+✦ Terminal-centric, Linux-native development workflow across all projects.
 ```
 
 ---
@@ -95,9 +97,9 @@ Vision      : A scalable developer ecosystem powering next-gen AI & systems infr
 ## 🤝 Open to Collaboration
 
 ```text
-✦ Systems programming & compiler construction
-✦ Developer tooling and CLI ecosystem design
-✦ AI/ML infrastructure and LLM evaluation frameworks
+✦ Systems programming & compiler construction.
+✦ Developer tooling and CLI ecosystem design.
+✦ AI/ML infrastructure and LLM evaluation frameworks.
 ```
 
 ---
